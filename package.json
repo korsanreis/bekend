@@ -1,7 +1,6 @@
 {
   "name": "portfolio-backend",
   "version": "1.0.0",
-  "proxy": "http://bickend.eu-4.evennode.com/",
   "engines": {
     "node": "14.16.1"
   },
